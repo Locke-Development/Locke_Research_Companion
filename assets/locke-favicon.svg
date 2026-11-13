@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Locke">
+  <!--
+    Browser-tab seal. Same mark as .lp-mark: navy field, gold rule, cream L.
+    Colors are the literal brand tokens (navy, gold, brand-cream). An SVG
+    served from /public cannot read CSS variables.
+
+    The L is a path, not a text element. Tab strips do not load Times New
+    Roman, so a text L disappears and the tab looks empty.
+  -->
+  <rect x="1.25" y="1.25" width="29.5" height="29.5" rx="7"
+        fill="#17243A" stroke="#B88A2E" stroke-width="1.5" />
+  <path d="M10 8.5 h8.5 v2.6 h-3.1 v10.3 h6.6 v2.6 H10 v-2.6 h2.4 V11.1 H10 Z"
+        fill="#FAF9F6" />
+</svg>
