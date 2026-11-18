@@ -4,7 +4,7 @@
 **Product engineering portfolio · November 13, 2026**  
 **For future software-development clients, hiring managers and engineering evaluators.**
 
-[**LIVE PRODUCT**](https://lockeresearchcompanion.com/) · [**ORIGINAL DEMO**](https://lockeresearchcompanion.com/media/locke-research-companion-demo.mp4) · [**FULL COMPARISON**](COMPARISON.md)
+[**LIVE PRODUCT**](https://lockeresearchcompanion.com/) · [**LAUNCH TEASER**](assets/research-companion-launch-teaser.mp4) · [**FULL COMPARISON**](COMPARISON.md)
 
 ---
 
@@ -48,9 +48,9 @@ Their licensed legal-content collections, citators, advanced agents and editoria
 
 ## See the real product
 
-[![Official Locke Research Companion presentation](assets/research-companion-demo-poster.jpg)](https://lockeresearchcompanion.com/media/locke-research-companion-demo.mp4)
+[![Locke Research Companion launch teaser](assets/research-companion-launch-poster.jpg)](assets/research-companion-launch-teaser.mp4)
 
-[**Watch the original narrated website video**](https://lockeresearchcompanion.com/media/locke-research-companion-demo.mp4)
+[**Watch the 40-second launch teaser**](assets/research-companion-launch-teaser.mp4)
 
 ## Delivered source and release
 

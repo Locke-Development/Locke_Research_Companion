@@ -5,7 +5,7 @@
 
 > **Portfolio thesis:** Locke Research Companion demonstrates the integration of jurisdiction-aware research, source-matched AI answers, conversational continuity, private documents, OCR, timelines, facts, evidence, attorney preparation, reports and export into **one matter-centered application**. The differentiation is a connected product with visible trust boundaries—not an unsupported claim that it outperforms every major legal database.
 
-[Live product](https://lockeresearchcompanion.com/) · [Detailed 381-feature audit](FEATURE-MATRIX.md) · [49 Ask Locke checks](ASK-LOCKE.md) · [Original narrated video](https://lockeresearchcompanion.com/media/locke-research-companion-demo.mp4)
+[Live product](https://lockeresearchcompanion.com/) · [Detailed 381-feature audit](FEATURE-MATRIX.md) · [49 Ask Locke checks](ASK-LOCKE.md) · [Launch teaser (40 s)](assets/research-companion-launch-teaser.mp4)
 
 ## Five closest legal-research AI platforms
 

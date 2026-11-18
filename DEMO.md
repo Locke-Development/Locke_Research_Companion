@@ -1,11 +1,11 @@
-# Locke Research Companion — Original website demo
+# Locke Research Companion — Launch teaser
 
-[![Watch the official Locke Research Companion demo](assets/research-companion-demo-poster.jpg)](https://lockeresearchcompanion.com/media/locke-research-companion-demo.mp4)
+[![Watch the Locke Research Companion launch teaser](assets/research-companion-launch-poster.jpg)](assets/research-companion-launch-teaser.mp4)
 
-**[Play the official narrated demonstration (MP4)](https://lockeresearchcompanion.com/media/locke-research-companion-demo.mp4)**
+**[Play the 40-second launch teaser (MP4)](assets/research-companion-launch-teaser.mp4)**
 
 **[Visit the live research product](https://lockeresearchcompanion.com/)** · **[See source-backed research explained](https://lockeresearchcompanion.com/source-backed)**
 
-The website's real video demonstrates the case-centered product, including setting a case scope and court, asking a research question, sourcing the result and keeping the work connected to documents and case preparation. The original video poster is stored here; the MP4 is linked from the official live site so that the presentation does not go stale in multiple repositories.
+A 40-second launch teaser on real screens from the live product, using a fictional Ohio contractor-dispute case. It shows what sets Research Companion apart: research scoped to the state and court with every citation checked against its source, documents that stay connected to the matter, conflicting dates flagged across records instead of silently picked, and attorney-ready preparation built from the case file. The MP4 is stored in this repository.
 
 [Portfolio brochure](BROCHURE.md) · [51-row comparison](COMPARISON.md) · [Every feature](FEATURE-MATRIX.md)

@@ -25,11 +25,11 @@ Rather than presenting an AI answer as a standalone chat artifact, the product c
 
 ## Watch the actual software
 
-[![Locke Research Companion official demonstration](assets/research-companion-demo-poster.jpg)](https://lockeresearchcompanion.com/media/locke-research-companion-demo.mp4)
+[![Locke Research Companion launch teaser](assets/research-companion-launch-poster.jpg)](assets/research-companion-launch-teaser.mp4)
 
-**[Watch the original narrated video](https://lockeresearchcompanion.com/media/locke-research-companion-demo.mp4)** · **[Explore the live product](https://lockeresearchcompanion.com/)**
+**[Watch the 40-second launch teaser](assets/research-companion-launch-teaser.mp4)** · **[Explore the live product](https://lockeresearchcompanion.com/)**
 
-The original website poster is preserved in this repository; the official video plays from the live website.
+The 40-second launch teaser is stored in this repository: real screens from the live product, using a fictional Ohio contractor-dispute case.
 
 ## What this build demonstrates
 
